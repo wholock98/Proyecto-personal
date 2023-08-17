@@ -3,10 +3,15 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { INICIOComponent } from './inicio/inicio.component';
+import { MejoresMomentosComponent } from './mejores-momentos/mejores-momentos.component';
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    INICIOComponent,
+    MejoresMomentosComponent,
   ],
   imports: [
     BrowserModule,
