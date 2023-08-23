@@ -1,0 +1,100 @@
+.logo {
+    width: 150px;
+    height: 130px;
+    }
+
+.V_formulario_L {
+        position:absolute;
+        width: 724px;
+        top: 0px;
+        right: 350px;
+}
+
+.registro {
+    letter-spacing: 4px;
+    position: absolute;
+    top: 90px;
+    right: 850px;
+}
+
+.form-group {
+    font-size: 25px;
+    position: absolute;
+    left: 610px;
+    top: 220px;
+}
+
+  
+.form-control {
+ 
+    border-radius: 1vw;
+    background-color: #D9D9D9;
+    position: absolute;
+    width: 240px;
+  }
+
+  #InputName {
+    position: absolute;
+    right: 1px;
+    top: 40px;
+  }
+  
+  #InputEmail {
+    position: absolute;
+    right: 1px;
+    top: 125px;
+  
+  }
+  
+  #InputPassword {
+    position: absolute;
+    right: 1px;
+    top: 210px;
+  }
+
+  #Input_Repite_Pass {
+    position: absolute;
+    right: 1px;
+    top: 290px;
+  }
+  
+  .btn_enviar {
+    position: absolute;
+    top: 550px;
+    right: 600px;
+    border-radius: 1vw;
+    background-color: #D9D9D9;
+    font-size: 20px;
+  }
+
+  .pregunta { 
+    letter-spacing: 4px;
+    position: absolute;
+    top: 580px;
+    right: 580px;
+    font-size: 12px;
+    color: #fff;
+  }
+
+  .Inicia_sesion {
+    letter-spacing: 4px;
+    position: absolute;
+    top: 600px;
+    right: 580px;
+    font-size: 12px;
+    color: #fff;
+  }
+  
+  .doctor_10 {
+    position: absolute;
+    width: 380px;
+    top: 183px;
+    left: 50px;
+  }
+  
+  .doctor_11 {
+    position: absolute;
+    width: 380px;
+    top: 183px;
+    right: 1px;
+  }

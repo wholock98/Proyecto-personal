@@ -1,5 +1,5 @@
 <header>
-  <a href="../inicio"><img src="../assets/IMG/logo.png" alt="logo" class="logo" /></a>
+    <a href="../inicio"><img src="../assets/IMG/logo.png" alt="logo" class="logo" /></a>
     
 </header>
 
@@ -7,8 +7,16 @@
 <img src="../assets/IMG/vector_formulario.png" alt="" class="V_formulario_L" />
 
 <form>
-      <h1>LOGIN</h1>
+      <h1 class="registro">Registro</h1>
+
+
     <div class="form-group">
+
+    <label for="nombre">Nombre</label>
+    <br>
+    <input type="text" id="InputName" class="form-control" />
+    <br>
+    <br>
       <label for="InputEmail">Correo Electronico</label>
       <br>
       <input type="email" class="form-control" id="InputEmail">
@@ -17,16 +25,22 @@
       <label for="InputPassword">Contraseña</label>
       <br>
       <input type="password" class="form-control" id="InputPassword" >
+    <br>
+    <br>
+      <label for="Input_Repite_Pass">Repite la Contraseña</label>
+      <br>
+      <input type="password" id="Input_Repite_Pass" class="form-control" />
+                  
     </div>
     
     <button type="submit" class="btn_enviar">Enviar</button>
   </form>
 
-<a href="../registro/"><p>Aun no eres socio?</p></a>
+<p class="pregunta">Ya eres socio?</p>
 
+<a href="../login"><p class="Inicia_sesion">Inicia sesion aqui!</p></a>
 </div>
 
 <img src="../../assets/IMG/DECIMO VECTOR.png" alt="" class="doctor_10">
 
 <img src="../../assets/IMG/undecimo doctor vector.png" alt="" class="doctor_11">
-

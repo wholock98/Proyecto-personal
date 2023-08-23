@@ -9,10 +9,15 @@ import { MejoresMomentosComponent } from './mejores-momentos/mejores-momentos.co
 
 import { Routes, RouterModule } from '@angular/router';
 import { LoginComponent } from './login/login.component';
+import { RegistroComponent } from './registro/registro.component';
+
+
+
 
 const rutas: Routes = [
-  { path:'', component: INICIOComponent },
-  { path:'login', component: LoginComponent}
+  { path:'inicio', component: INICIOComponent },
+  { path:'login', component: LoginComponent},
+  { path: 'registro', component: RegistroComponent},
  
 ];
 
@@ -22,6 +27,7 @@ const rutas: Routes = [
     INICIOComponent,
     MejoresMomentosComponent,
     LoginComponent,
+    RegistroComponent,
   ],
   imports: [
     BrowserModule,
