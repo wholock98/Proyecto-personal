@@ -10,6 +10,7 @@ import { MejoresMomentosComponent } from './mejores-momentos/mejores-momentos.co
 import { Routes, RouterModule } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { RegistroComponent } from './registro/registro.component';
+import { WilliamHartnellComponent } from './william-hartnell/william-hartnell.component';
 
 
 
@@ -18,6 +19,7 @@ const rutas: Routes = [
   { path:'inicio', component: INICIOComponent },
   { path:'login', component: LoginComponent},
   { path: 'registro', component: RegistroComponent},
+  { path: 'william-hartnell', component: WilliamHartnellComponent}
  
 ];
 
@@ -28,6 +30,8 @@ const rutas: Routes = [
     MejoresMomentosComponent,
     LoginComponent,
     RegistroComponent,
+    WilliamHartnellComponent,
+
   ],
   imports: [
     BrowserModule,

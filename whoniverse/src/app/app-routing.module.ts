@@ -3,6 +3,8 @@ import { RouterModule, Routes } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { INICIOComponent } from './inicio/inicio.component';
 import { RegistroComponent } from './registro/registro.component';
+import { WilliamHartnellComponent } from './william-hartnell/william-hartnell.component';
+
 
 const routes: Routes = [
   {
@@ -19,7 +21,14 @@ const routes: Routes = [
   {
     path: 'registro',
     component:RegistroComponent
+  },
+
+  {
+    path:'william-hartnell',
+    component: WilliamHartnellComponent
   }
+
+
 ];
 
 
