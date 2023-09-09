@@ -3,7 +3,10 @@ import { RouterModule, Routes } from '@angular/router';
 import { LoginComponent } from './login/login.component';
 import { INICIOComponent } from './inicio/inicio.component';
 import { RegistroComponent } from './registro/registro.component';
-import { WilliamHartnellComponent } from './william-hartnell/william-hartnell.component';
+import { WilliamHartnellComponent } from './Doctores/william-hartnell/william-hartnell.component';
+import { DavidTennantComponent } from './Doctores/david-tennant/david-tennant.component';
+import { MattSmithComponent } from './Doctores/matt-smith/matt-smith.component';
+import { PeterCapaldiComponent } from './Doctores/peter-capaldi/peter-capaldi.component';
 
 
 const routes: Routes = [
@@ -26,8 +29,22 @@ const routes: Routes = [
   {
     path:'william-hartnell',
     component: WilliamHartnellComponent
-  }
+  },
 
+  {
+    path:'david-tennant',
+    component: DavidTennantComponent
+  },
+
+  {
+    path: 'matt-smith',
+    component: MattSmithComponent
+  },
+
+  {
+    path: 'peter-capaldi',
+    component: PeterCapaldiComponent
+  }
 
 ];
 
