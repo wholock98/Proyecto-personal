@@ -206,3 +206,54 @@
   top: 2560px;
   left: 1150px;
 }
+
+
+/* personajes emblematicos */
+
+.pers_emble {
+  position: absolute;
+  top: 2850px;
+  left: 65px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.image {
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.image-display {
+  position: absolute;
+  top: 2930px;
+  left: 20px;
+}
+
+#displayed-image {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.the_doctor {
+  position: absolute;
+  top: 2935px;
+  left: 275px;
+}
+
+.companions {
+  position: absolute;
+  top: 3040px;
+  left: 275px;
+  padding-right: 283px;
+}
+
+.daleks {
+  position: absolute;
+  top: 3155px;
+  left: 275px;
+}
