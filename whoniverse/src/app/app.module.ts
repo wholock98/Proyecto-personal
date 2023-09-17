@@ -14,6 +14,7 @@ import { WilliamHartnellComponent } from './Doctores/william-hartnell/william-ha
 import { DavidTennantComponent } from './Doctores/david-tennant/david-tennant.component';
 import { MattSmithComponent } from './Doctores/matt-smith/matt-smith.component';
 import { PeterCapaldiComponent } from './Doctores/peter-capaldi/peter-capaldi.component';
+import { EventosComponent } from './eventos/eventos.component';
 
 
 
@@ -26,7 +27,7 @@ const rutas: Routes = [
   { path: 'david-tennant', component: DavidTennantComponent},
   { path: 'matt-smith', component: MattSmithComponent},
   { path: 'peter-capaldi', component: PeterCapaldiComponent},
-  
+  { path: 'eventos', component: EventosComponent},
  
 ];
 
@@ -41,6 +42,7 @@ const rutas: Routes = [
     DavidTennantComponent,
     MattSmithComponent,
     PeterCapaldiComponent,
+    EventosComponent,
 
   ],
   imports: [
