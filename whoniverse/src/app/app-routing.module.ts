@@ -8,6 +8,7 @@ import { DavidTennantComponent } from './Doctores/david-tennant/david-tennant.co
 import { MattSmithComponent } from './Doctores/matt-smith/matt-smith.component';
 import { PeterCapaldiComponent } from './Doctores/peter-capaldi/peter-capaldi.component';
 import { EventosComponent } from './eventos/eventos.component';
+import { AlicantardisIIComponent } from './eventos/alicantardis-ii/alicantardis-ii.component';
 
 
 const routes: Routes = [
@@ -50,7 +51,12 @@ const routes: Routes = [
   {
     path:'eventos',
     component: EventosComponent
-  }
+  },
+
+  {
+    path: 'alicantardis-II',
+    component: AlicantardisIIComponent
+  },
 
 ];
 
