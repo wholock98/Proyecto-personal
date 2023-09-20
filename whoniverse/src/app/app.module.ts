@@ -23,6 +23,8 @@ import { TarjetaEventosComponent } from './components/tarjeta-eventos/tarjeta-ev
 import { TarjetasViajesComponent } from './components/tarjetas-viajes/tarjetas-viajes.component';
 import { TarjetasJornadaJuegosComponent } from './components/tarjetas-jornada-juegos/tarjetas-jornada-juegos.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { VortexVideoComponent } from './components/vortex-video/vortex-video.component';
+import { CountdownComponent } from './components/countdown/countdown.component';
 
 
 
@@ -45,7 +47,8 @@ const rutas: Routes = [
   { path: 'tajeta-Eventos', component: TarjetaEventosComponent},
   { path: 'tarjeta-Viajes', component: TarjetasViajesComponent},
   { path: 'tarjeta-Jornadas-juegos', component: TarjetasJornadaJuegosComponent},
-  
+  { path: 'vortex', component: VortexVideoComponent},
+  { path: 'countdown', component: CountdownComponent}
   
 ];
 
@@ -69,7 +72,9 @@ const rutas: Routes = [
     TarjetasViajesComponent,
     TarjetasJornadaJuegosComponent,
     FooterComponent,
- 
+    VortexVideoComponent,
+    CountdownComponent,
+    
 
   ],
   imports: [

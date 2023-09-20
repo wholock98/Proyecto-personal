@@ -16,6 +16,8 @@ import { JornadasDeJuegosComponent } from './components/jornadas-de-juegos/jorna
 import { TarjetaEventosComponent } from './components/tarjeta-eventos/tarjeta-eventos.component';
 import { TarjetasViajesComponent } from './components/tarjetas-viajes/tarjetas-viajes.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { VortexVideoComponent } from './components/vortex-video/vortex-video.component';
+import { CountdownComponent } from './components/countdown/countdown.component';
 
 
 const routes: Routes = [
@@ -91,6 +93,14 @@ const routes: Routes = [
   {
     path:'footer',
     component: FooterComponent
+  },
+  {
+    path: 'vortex',
+    component: VortexVideoComponent
+  },
+  {
+    path: 'countdown',
+    component: CountdownComponent
   }
 
 
