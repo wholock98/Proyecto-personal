@@ -10,6 +10,9 @@
 <img src="/IMG/4.png" alt="project-screenshot" width="1280" height="400/">
 <img src="/IMG/5.png" alt="project-screenshot" width="1280" height="400/">
 <img src="/IMG/6.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/7.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/8.png" alt="project-screenshot" width="1280" height="400/">
+
 
 
   
