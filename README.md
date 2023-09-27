@@ -13,24 +13,27 @@
 <img src="/IMG/7.png" alt="project-screenshot" width="1280" height="400/">
 <img src="/IMG/8.png" alt="project-screenshot" width="1280" height="400/">
 
+<h2>🧐 Caracteristicas</h2>
+
+<b>Exploración del Universo de "Doctor Who": </b>
+
+Una extensa base de datos que permite a los usuarios explorar y obtener información detallada sobre las encarnaciones del Doctor, los compañeros, los villanos, las ubicaciones y las épocas a lo largo de la historia de la serie.
+
+<b>Gestión de Eventos y Comunidades: </b>
+
+Una plataforma que permite a los fans organizar y promocionar eventos relacionados con "Doctor Who", como convenciones, proyecciones especiales, noches temáticas y reuniones de fans.
+Foros y salas de chat donde los fanáticos pueden discutir teorías, compartir arte, intercambiar anécdotas y conectarse con otros entusiastas de la serie.
+
+<b>Recursos Educativos: </b>
+
+Artículos informativos, videos y cronologías que ayudan a los fans a comprender mejor la rica mitología de "Doctor Who", incluyendo conceptos de viajes en el tiempo, tecnología y personajes clave.
+
+<b>Perfiles de Usuario: </b>
+
+La capacidad para que los usuarios creen perfiles personalizados donde puedan poner sus episodios favoritos, así como eventos a los que planean asistir.  
 
 
-  
-  
-<h2>🧐 Features</h2>
 
-Here're some of the project's best features:
-
-*   Property Exploration: Users can browse a wide range of properties available to buy or rent. They can browse by different categories such as type of home location and price to find properties that suit their needs.
-*   Registration and User Profile: Users can register with the real estate portal to access exclusive features. Once registered they have user profiles where they can manage their personal data and settings.
-*   Property Publication: Owners can publish their own properties for sale or rent. The publication form allows them to enter property details add images and preview before publication.
-*   Property Management: Owners can manage their own listings. They can edit or delete properties from their listing at any time making it easy to update information.
-*   Contact Functionality: Users interested in a property can contact the owner or real estate agent through the "Contact" button. This initiates direct communication.
-*   User Administration: Site administrators have access to an administrator view where they can view and manage user accounts. They can enable or disable accounts as needed.
-*   Easy Navigation: The navigation bar at the top of the page allows users to easily access the home page purchase and rental sections and manage their profile.
-
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
