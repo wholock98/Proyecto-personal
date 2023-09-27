@@ -40,6 +40,9 @@ La capacidad para que los usuarios creen perfiles personalizados donde puedan po
 *   VSCode
 *   Angular
 *   Bootstrap
+*   TypeScript
+*   Java
+*   JavaScript
 *   MySQL
 
 <h2>🛡️ License:</h2>
