@@ -15,18 +15,18 @@
 
 <h2>🧐 Caracteristicas</h2>
 
-<b>Exploración del Universo de "Doctor Who": </b>
+<b>Exploración del Universo de Doctor Who: </b>
 
 Una extensa base de datos que permite a los usuarios explorar y obtener información detallada sobre las encarnaciones del Doctor, los compañeros, los villanos, las ubicaciones y las épocas a lo largo de la historia de la serie.
 
 <b>Gestión de Eventos y Comunidades: </b>
 
-Una plataforma que permite a los fans organizar y promocionar eventos relacionados con "Doctor Who", como convenciones, proyecciones especiales, noches temáticas y reuniones de fans.
+Una plataforma que permite a los fans organizar y promocionar eventos relacionados con Doctor Who, como convenciones, proyecciones especiales, noches temáticas y reuniones de fans.
 Foros y salas de chat donde los fanáticos pueden discutir teorías, compartir arte, intercambiar anécdotas y conectarse con otros entusiastas de la serie.
 
 <b>Recursos Educativos: </b>
 
-Artículos informativos, videos y cronologías que ayudan a los fans a comprender mejor la rica mitología de "Doctor Who", incluyendo conceptos de viajes en el tiempo, tecnología y personajes clave.
+Artículos informativos, videos y cronologías que ayudan a los fans a comprender mejor la rica mitología de Doctor Who, incluyendo conceptos de viajes en el tiempo, tecnología y personajes clave.
 
 <b>Perfiles de Usuario: </b>
 
