@@ -1,4 +1,4 @@
-<img src="./IMG/Portada.png" alt="project-screenshot" width="100" height="100">
+<img src="/whoniverse/src/assets/IMG/logo.png" alt="project-screenshot" width="100" height="100">
 
 <p id="description">El principal objetivo de Whoniverse es crear una plataforma inclusiva y emocionante donde los fans de "Doctor Who" puedan conectarse, aprender, compartir su creatividad y celebrar su pasión por esta querida serie. Además, busca mantener viva la llama de la serie a medida que evoluciona con nuevas temporadas y episodios.</p>
 
