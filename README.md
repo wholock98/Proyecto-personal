@@ -34,28 +34,14 @@ La capacidad para que los usuarios creen perfiles personalizados donde puedan po
 
 
 
-<h2>💻 Built with</h2>
+<h2>💻 Tecnologias y Lenguajes</h2>
 
-Technologies used in the project:
-
-*   SpringBoot
+*   Figma
+*   VSCode
 *   Angular
-*   Postman
 *   Bootstrap
 *   MySQL
 
-
-<h2>💻 Team</h2>
-
-* Francisco Saavedra - Product Owner
-* David Gomez - Scrum Master
-* Cristian Ortega - Team Lead
-* Jose Luis Medina - Developer
-* Maria Fernandez - Developer
-* Natalia G. Mihalache - Developer
-* Guillermo Llausas - Developer
-* Mario Olabe - Developer
-
 <h2>🛡️ License:</h2>
 
-This project is licensed under the Pedagogical Project for Factoria F5 and NTT Data
+This project is licensed by ALICANTARDIS 
