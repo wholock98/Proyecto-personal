@@ -1,0 +1,61 @@
+.menu {
+  position: fixed;
+  width: 1500px;
+  top: 0px;
+}
+
+.logo {
+  width: 150px;
+  height: 130px;
+}
+
+.login {
+  color: #fff;
+  font-family: Vampire Raves;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  position: absolute;
+  left: 1400px;
+  top: 30px;
+}
+
+.V_login {
+  position: absolute;
+  top: 0px;
+  right: 1px;
+  height: 140px;
+  width: 130px;
+}
+
+.title {
+  font-size: 30px;
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+
+.doctor_1 {
+  position: absolute;
+  top: 243px;
+  left: 420px;
+  padding-right: 3px;
+  padding-bottom: 8px;
+
+  perspective: 1000px;
+
+  transform: rotateY(-10deg) rotateX(20px); /* Aplicar transformaciones 3D */
+  transform-style: preserve-3d; /* Mantener las transformaciones 3D en los descendientes */
+
+  overflow: hidden;
+}
+
+.screen {
+  position: absolute;
+  top: 210px;
+  left: 330px;
+  width: 600px;
+  border-radius: 20px;
+}
