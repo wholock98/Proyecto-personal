@@ -5,6 +5,12 @@
 <h2>Project Screenshots:</h2>
 
 <img src="/IMG/Portada.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/2.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/3.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/4.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/5.png" alt="project-screenshot" width="1280" height="400/">
+<img src="/IMG/6.png" alt="project-screenshot" width="1280" height="400/">
+
 
   
   
